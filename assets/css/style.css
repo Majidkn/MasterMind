@@ -1,0 +1,24 @@
+.circle {
+  width: 75px;
+  height: 75px;
+  line-height: 50px;
+  background: #d3d3d3;
+  border-radius: 100%;
+}
+
+.circle.mini {
+  width: 20px;
+  height: 20px;
+}
+
+.select-circle {
+  width: 75px;
+  height: 75px;
+  line-height: 50px;
+  background: #d3d3d3;
+  border-radius: 100%;
+}
+
+.selected {
+  border: 2px solid
+}
